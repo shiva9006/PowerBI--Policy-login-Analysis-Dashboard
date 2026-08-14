@@ -9,6 +9,8 @@ This project is an interactive Power BI dashboard developed to analyze policy lo
 - DAX
 - Excel
 <img width="1920" height="1020" alt="Screenshot 2026-08-01 032629" src="https://github.com/user-attachments/assets/bf6abb95-e6f8-4223-839c-dc7db535ad12" />
+<img width="1920" height="1020" alt="Screenshot 2026-08-01 032653" src="https://github.com/user-attachments/assets/d75f48de-138a-44b6-bba3-173e54d629b4" />
+<img width="1920" height="1020" alt="Screenshot 2026-08-01 032727" src="https://github.com/user-attachments/assets/76fce324-0ede-4ece-ac03-189c9ef292d3" />
 
 ## Features
 - Policy Login Overview
